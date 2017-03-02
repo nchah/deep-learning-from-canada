@@ -19,7 +19,10 @@ As an introduction to the technology, the demonstration will show how deep learn
 Depending on time constraints, a further demonstration will show how current APIs perform in such tasks as image recognition, speech recognition, and translation.
 
 
+## References
 
+- Bergen, M., Wagner, K. (2015, July 15) Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze. Recode. Retrieved from http://www.recode.net/2015/7/15/11614684/ai-conspiracy-the-scientists-behind-deep-learning
+- Lewis-Kraus, G. (2016, December 14). The Great A.I. Awakening. The New York Times. Retrieved from https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html
 
 
 
