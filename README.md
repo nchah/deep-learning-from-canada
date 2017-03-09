@@ -19,6 +19,21 @@ As an introduction to the technology, the demonstration will show how deep learn
 Depending on time constraints, a further demonstration will show how current APIs perform in such tasks as image recognition, speech recognition, and translation.
 
 
+## Workshop Outline
+
+An outline of the headings and sub-headings for the workshop.
+
+- Introduction to Deep Learning and Artificial Intelligence
+    - Historical Overview
+    - Canada's Contributions
+- Demonstration: TensorFlow
+    - Installation
+    - MNIST Tutorial
+    - Embeddings and Visualization Tutorial
+- Q&A
+
+
+
 ## References
 
 In Development:
