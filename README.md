@@ -25,7 +25,10 @@ An outline of the headings and sub-headings for the workshop.
 
 - Introduction to Deep Learning and Artificial Intelligence
     - Historical Overview
-    - Canada's Contributions
+    - Canada's Contributions    
+- Deep Learning
+    - Theory
+    - Applications
 - Demonstration: TensorFlow
     - Installation
     - MNIST Tutorial
