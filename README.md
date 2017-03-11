@@ -66,6 +66,7 @@ References listed in APA style.
 - Kurenkov, A. (2015, December 24). A 'Brief' History of Neural Nets and Deep Learning, Part 3. Retrieved from http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-3/
 - Kurenkov, A. (2015, December 24). A 'Brief' History of Neural Nets and Deep Learning, Part 4. Retrieved from http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-4/
 - Kurenkov, A. (2016, April 18). A 'Brief' History of Game AI Up To AlphaGo, Part 1. Retrieved from http://www.andreykurenkov.com/writing/a-brief-history-of-game-ai/
+- LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436-444.
 - Lee, A. (2017, January 18). Can RBC help stop Canada’s brain drain in deep learning?. Macleans. Retrieved from http://www.macleans.ca/society/technology/can-rbc-help-stop-canadas-brain-drain-in-deep-learning/
 - Lewis-Kraus, G. (2016, December 14). The Great A.I. Awakening. The New York Times. Retrieved from https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html
 - Marr, B. (2016, December 8). What Is The Difference Between Deep Learning, Machine Learning and AI?. Forbes. Retrieved from https://www.forbes.com/sites/bernardmarr/2016/12/08/what-is-the-difference-between-deep-learning-machine-learning-and-ai
@@ -73,6 +74,15 @@ References listed in APA style.
 - Rohrer, B. (2016, May 22). Deep Learning Demystified. Retrieved from http://brohrer.github.io/deep_learning_demystified.html
 - Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117. Retrieved from https://arxiv.org/abs/1404.7828
 - Wang, H., Raj, B., & Xing, E. P. (2017). On the Origin of Deep Learning. arXiv preprint arXiv:1702.07800. Retrieved from https://arxiv.org/abs/1702.07800
+
+
+To Cite:
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+http://www.erogol.com/brief-history-machine-learning/
+http://andrewyuan.github.io/ 
+http://neuralnetworksanddeeplearning.com/
+http://www.asimovinstitute.org/neural-network-zoo/#
+http://machinelearningmastery.com/inspirational-applications-deep-learning/
 
 
 
