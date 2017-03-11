@@ -36,6 +36,15 @@ An outline of the headings and sub-headings for the workshop.
 - Q&A
 
 
+## Workshop Deck
+
+A PDF version of the workshop deck will be included here.
+
+
+## Implementation
+
+
+
 
 ## References
 
