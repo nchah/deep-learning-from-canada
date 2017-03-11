@@ -59,6 +59,7 @@ References listed in APA style.
 - Abadi, M., Agarwal, A., Barham, P., Brevdo, E., Chen, Z., Citro, C., ... & Ghemawat, S. (2016). Tensorflow: Large-scale machine learning on heterogeneous distributed systems. arXiv preprint arXiv:1603.04467.
 - Bergen, M., Wagner, K. (2015, July 15). Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze. Recode. Retrieved from http://www.recode.net/2015/7/15/11614684/ai-conspiracy-the-scientists-behind-deep-learning
 - Britz, D. (2016). Deep Learning Glossary. Retrieved from http://www.wildml.com/deep-learning-glossary/
+- Hinton, G (Speaker). (2015, May 5). The Current [Audio podcast]. Retrieved from http://www.cbc.ca/radio/thecurrent/the-current-for-may-5-2015-1.3061292
 - Jacobs, J., Poutanen, T., Zemel, R., Hinton, G. & Clark, E. (2017, January 7). Artificial intelligence is the future, and Canada can seize it. The Globe and Mail. Retrieved from http://www.theglobeandmail.com/report-on-business/rob-commentary/artificial-intelligence-is-the-future-and-canada-must-seize-it/article33532668/
 - Kurenkov, A. (2015, December 24). A 'Brief' History of Neural Nets and Deep Learning, Part 1. Retrieved from http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
 - Kurenkov, A. (2015, December 24). A 'Brief' History of Neural Nets and Deep Learning, Part 2. Retrieved from http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning-part-2/
@@ -70,8 +71,8 @@ References listed in APA style.
 - Marr, B. (2016, December 8). What Is The Difference Between Deep Learning, Machine Learning and AI?. Forbes. Retrieved from https://www.forbes.com/sites/bernardmarr/2016/12/08/what-is-the-difference-between-deep-learning-machine-learning-and-ai
 - Press, G. (2016, December 30). A Very Short History Of Artificial Intelligence (AI). Forbes. Retrieved from https://www.forbes.com/sites/gilpress/2016/12/30/a-very-short-history-of-artificial-intelligence-ai
 - Rohrer, B. (2016, May 22). Deep Learning Demystified. Retrieved from http://brohrer.github.io/deep_learning_demystified.html
-
-
+- Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117. Retrieved from https://arxiv.org/abs/1404.7828
+- Wang, H., Raj, B., & Xing, E. P. (2017). On the Origin of Deep Learning. arXiv preprint arXiv:1702.07800. Retrieved from https://arxiv.org/abs/1702.07800
 
 
 
