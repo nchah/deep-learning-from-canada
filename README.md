@@ -48,11 +48,7 @@ A PDF version of the workshop deck will be included here.
 
 ## References
 
-In Development:
-- https://en.wikipedia.org/wiki/Deep_learning_
-- https://www.tensorflow.org/
-
-
+This is a small selection of the research out there.
 References listed in APA style.
 
 - Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Kudlur, M. (2016, November). TensorFlow: A system for large-scale machine learning. In Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI). Savannah, Georgia, USA.
