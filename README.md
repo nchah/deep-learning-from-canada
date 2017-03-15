@@ -48,13 +48,16 @@ A PDF version of the workshop deck will be included here.
 
 ## References
 
-This is a small selection of the research out there.
+This is a small selection of the research and resources out there.
 References listed in APA style.
 
 - Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Kudlur, M. (2016, November). TensorFlow: A system for large-scale machine learning. In Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI). Savannah, Georgia, USA.
 - Abadi, M., Agarwal, A., Barham, P., Brevdo, E., Chen, Z., Citro, C., ... & Ghemawat, S. (2016). Tensorflow: Large-scale machine learning on heterogeneous distributed systems. arXiv preprint arXiv:1603.04467.
 - Bergen, M., Wagner, K. (2015, July 15). Welcome to the AI Conspiracy: The 'Canadian Mafia' Behind Tech's Latest Craze. Recode. Retrieved from http://www.recode.net/2015/7/15/11614684/ai-conspiracy-the-scientists-behind-deep-learning
 - Britz, D. (2016). Deep Learning Glossary. Retrieved from http://www.wildml.com/deep-learning-glossary/
+- Brownless J. (2016, July 14). 8 Inspirational Applications of Deep Learning. Machine Learning Mastery. Retrieved from http://machinelearningmastery.com/inspirational-applications-deep-learning/
+- Deshpande, A. (2016, August 24). The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3). Retrieved from https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+- Golge, E. (n.d.). Brief History of Machine Learning. Retrieved from http://www.erogol.com/brief-history-machine-learning/
 - Hinton, G (Speaker). (2015, May 5). The Current [Audio podcast]. Retrieved from http://www.cbc.ca/radio/thecurrent/the-current-for-may-5-2015-1.3061292
 - Jacobs, J., Poutanen, T., Zemel, R., Hinton, G. & Clark, E. (2017, January 7). Artificial intelligence is the future, and Canada can seize it. The Globe and Mail. Retrieved from http://www.theglobeandmail.com/report-on-business/rob-commentary/artificial-intelligence-is-the-future-and-canada-must-seize-it/article33532668/
 - Kurenkov, A. (2015, December 24). A 'Brief' History of Neural Nets and Deep Learning, Part 1. Retrieved from http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
@@ -66,19 +69,13 @@ References listed in APA style.
 - Lee, A. (2017, January 18). Can RBC help stop Canada’s brain drain in deep learning?. Macleans. Retrieved from http://www.macleans.ca/society/technology/can-rbc-help-stop-canadas-brain-drain-in-deep-learning/
 - Lewis-Kraus, G. (2016, December 14). The Great A.I. Awakening. The New York Times. Retrieved from https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html
 - Marr, B. (2016, December 8). What Is The Difference Between Deep Learning, Machine Learning and AI?. Forbes. Retrieved from https://www.forbes.com/sites/bernardmarr/2016/12/08/what-is-the-difference-between-deep-learning-machine-learning-and-ai
+- Nielsen, M. (2017). Neural Networks and Deep Learning. Retrieved from http://neuralnetworksanddeeplearning.com/index.html
 - Press, G. (2016, December 30). A Very Short History Of Artificial Intelligence (AI). Forbes. Retrieved from https://www.forbes.com/sites/gilpress/2016/12/30/a-very-short-history-of-artificial-intelligence-ai
 - Rohrer, B. (2016, May 22). Deep Learning Demystified. Retrieved from http://brohrer.github.io/deep_learning_demystified.html
 - Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117. Retrieved from https://arxiv.org/abs/1404.7828
+- Van Veen, F. (2016, September 14). The Neural Network Zoo. Retrieved from http://www.asimovinstitute.org/neural-network-zoo/
 - Wang, H., Raj, B., & Xing, E. P. (2017). On the Origin of Deep Learning. arXiv preprint arXiv:1702.07800. Retrieved from https://arxiv.org/abs/1702.07800
-
-
-To Cite:
-https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
-http://www.erogol.com/brief-history-machine-learning/
-http://andrewyuan.github.io/ 
-http://neuralnetworksanddeeplearning.com/
-http://www.asimovinstitute.org/neural-network-zoo/#
-http://machinelearningmastery.com/inspirational-applications-deep-learning/
+- Yuan, A. (n.d.). Deep Learning. Retrieved from http://andrewyuan.github.io/
 
 
 
