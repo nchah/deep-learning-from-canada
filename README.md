@@ -27,7 +27,7 @@ An outline of the headings and sub-headings for the workshop.
     - Historical Overview
     - Canada's Contributions    
 - Deep Learning
-    - Theory
+    - Theory - In Brief
     - Applications
 - Demonstration: TensorFlow
     - Installation
@@ -39,11 +39,6 @@ An outline of the headings and sub-headings for the workshop.
 ## Workshop Deck
 
 A PDF version of the workshop deck will be included here.
-
-
-## Implementation
-
-
 
 
 ## References
