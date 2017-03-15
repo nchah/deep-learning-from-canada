@@ -1,5 +1,7 @@
 # deep-learning-from-canada
 
+This repository contains material for a workshop I held during the Canada Now: 2017 iSchool Student Conference (https://canadanow2017.wordpress.com) on March 11, 2017. 
+
 ## Initial Proposal
 
 **Workshop Title:** Canada's Contributions to Deep Learning and Artificial Intelligence
@@ -38,7 +40,7 @@ An outline of the headings and sub-headings for the workshop.
 
 ## Workshop Deck
 
-A PDF version of the workshop deck will be included here.
+A PDF version of the workshop deck is included here.
 
 
 ## References
