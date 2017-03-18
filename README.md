@@ -1,6 +1,14 @@
 # deep-learning-from-canada
 
-This repository contains material for a workshop I held during the Canada Now: 2017 iSchool Student Conference (https://canadanow2017.wordpress.com) on March 11, 2017. 
+This repository contains material for a workshop I held at the Canada Now: 2017 iSchool Student Conference (https://canadanow2017.wordpress.com) on March 11, 2017. 
+
+## Table of Contents
+
+   * [Initial Proposal](#initial-proposal)
+   * [Workshop Outline](#workshop-outline)
+   * [Workshop Deck](#workshop-deck)
+   * [References](#references)
+
 
 ## Initial Proposal
 
