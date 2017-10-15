@@ -75,7 +75,7 @@ References listed in APA style.
 - Lewis-Kraus, G. (2016, December 14). The Great A.I. Awakening. The New York Times. Retrieved from https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html
 - Marr, B. (2016, December 8). What Is The Difference Between Deep Learning, Machine Learning and AI?. Forbes. Retrieved from https://www.forbes.com/sites/bernardmarr/2016/12/08/what-is-the-difference-between-deep-learning-machine-learning-and-ai
 - Nielsen, M. (2017). Neural Networks and Deep Learning. Retrieved from http://neuralnetworksanddeeplearning.com/index.html
-- Parloff, R. (2016). Why Deep Learning is Suddenly Changning Your Life. Fortune. Retrieved from http://fortune.com/ai-artificial-intelligence-deep-machine-learning/
+- Parloff, R. (2016). Why Deep Learning is Suddenly Changing Your Life. Fortune. Retrieved from http://fortune.com/ai-artificial-intelligence-deep-machine-learning/
 - Press, G. (2016, December 30). A Very Short History Of Artificial Intelligence (AI). Forbes. Retrieved from https://www.forbes.com/sites/gilpress/2016/12/30/a-very-short-history-of-artificial-intelligence-ai
 - Rohrer, B. (2016, May 22). Deep Learning Demystified. Retrieved from http://brohrer.github.io/deep_learning_demystified.html
 - Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117. Retrieved from https://arxiv.org/abs/1404.7828
