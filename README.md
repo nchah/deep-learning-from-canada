@@ -79,6 +79,7 @@ References listed in APA style.
 - Press, G. (2016, December 30). A Very Short History Of Artificial Intelligence (AI). Forbes. Retrieved from https://www.forbes.com/sites/gilpress/2016/12/30/a-very-short-history-of-artificial-intelligence-ai
 - Rohrer, B. (2016, May 22). Deep Learning Demystified. Retrieved from http://brohrer.github.io/deep_learning_demystified.html
 - Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117. Retrieved from https://arxiv.org/abs/1404.7828
+- Turovsky, B. (2016, November 15). Found in translation: More accurate, fluent sentences in Google Translate. Google Blog. Retrieved from https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/
 - Van Veen, F. (2016, September 14). The Neural Network Zoo. Retrieved from http://www.asimovinstitute.org/neural-network-zoo/
 - Wang, H., Raj, B., & Xing, E. P. (2017). On the Origin of Deep Learning. arXiv preprint arXiv:1702.07800. Retrieved from https://arxiv.org/abs/1702.07800
 - Yuan, A. (n.d.). Deep Learning. Retrieved from http://andrewyuan.github.io/
