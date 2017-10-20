@@ -28,6 +28,11 @@ Presentation to delegates from the South Korean Ministry of Education on October
     - Applications
 - Q&A
 
+### Deck
+
+A PDF version of the deck is included here.
+
+
 
 ## UofT iSchool Conference - March 11, 2017 
 
