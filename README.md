@@ -1,16 +1,39 @@
 # deep-learning-from-canada
 
-This repository contains material for a workshop I held at the Canada Now: 2017 iSchool Student Conference (https://canadanow2017.wordpress.com) on March 11, 2017. 
+This repository contains material . 
 
 ## Table of Contents
 
-   * [Initial Proposal](#initial-proposal)
-   * [Workshop Outline](#workshop-outline)
-   * [Workshop Deck](#workshop-deck)
-   * [References](#references)
+  * [Presentation - October 16, 2017](#presentation---october-16-2017)
+     * [Outline](#outline)
+  * [UofT iSchool Conference - March 11, 2017](#uoft-ischool-conference---march-11-2017)
+     * [Initial Proposal](#initial-proposal)
+     * [Workshop Outline](#workshop-outline)
+     * [Workshop Deck](#workshop-deck)
+  * [References](#references)
+
+## Presentation - October 16, 2017
+
+Presentation to delegates from the South Korean Ministry of Education on October 16, 2017.
+
+### Outline
+
+- Self Introduction
+- Introduction to Deep Learning and Artificial Intelligence
+    - Definitions
+    - Historical Overview
+    - Canada's Contributions
+- Deep Learning
+    - Theory
+    - Applications
+- Q&A
 
 
-## Initial Proposal
+## UofT iSchool Conference - March 11, 2017 
+
+A workshop at the Canada Now: 2017 iSchool Student Conference (https://canadanow2017.wordpress.com) on March 11, 2017
+
+### Initial Proposal
 
 **Workshop Title:** Canada's Contributions to Deep Learning and Artificial Intelligence
 
@@ -29,7 +52,7 @@ As an introduction to the technology, the demonstration will show how deep learn
 Depending on time constraints, a further demonstration will show how current APIs perform in such tasks as image recognition, speech recognition, and translation.
 
 
-## Workshop Outline
+### Workshop Outline
 
 An outline of the headings and sub-headings for the workshop.
 
@@ -46,7 +69,7 @@ An outline of the headings and sub-headings for the workshop.
 - Q&A
 
 
-## Workshop Deck
+### Workshop Deck
 
 A PDF version of the workshop deck is included here.
 
