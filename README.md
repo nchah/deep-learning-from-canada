@@ -1,6 +1,6 @@
 # deep-learning-from-canada
 
-This repository contains material . 
+This repository contains materials on presentations and workshops on Canadian researchers' recent contributions to Deep Learning and Artificial Intelligence.
 
 ## Table of Contents
 
